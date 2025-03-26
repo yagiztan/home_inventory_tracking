@@ -47,31 +47,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCydFn471ZVW869lSekyQs3R3PUns2GqcE',
-    appId: '1:684175359427:web:76a29924102987c78bd176',
-    messagingSenderId: '684175359427',
-    projectId: 'println-28e6d',
-    authDomain: 'println-28e6d.firebaseapp.com',
-    databaseURL: 'https://println-28e6d-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'println-28e6d.appspot.com',
+    apiKey: 'api key girin',
+    appId: 'app id girin',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA0irAzBoSmM44NBZ4-SJEyuKrcYFHGGHw',
-    appId: '1:684175359427:android:d05300c9d0e05b908bd176',
-    messagingSenderId: '684175359427',
-    projectId: 'println-28e6d',
-    databaseURL: 'https://println-28e6d-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'println-28e6d.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBzCfufAxjxtyBOj4QbkcfXs6nJeZf5jBs',
-    appId: '1:684175359427:web:51b67ad6c5cbcf4c8bd176',
-    messagingSenderId: '684175359427',
-    projectId: 'println-28e6d',
-    authDomain: 'println-28e6d.firebaseapp.com',
-    databaseURL: 'https://println-28e6d-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'println-28e6d.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 }
